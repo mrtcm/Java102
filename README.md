@@ -1,4 +1,4 @@
-# Java102-AdventureGame
+# Java102
 
 www.patika.com
 
